@@ -1,0 +1,14 @@
+
+.padre1 {
+  width: 50%;
+  height: 600px;
+  position: relative;
+  background-color: #51ADFC;
+  float: left;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+
+  
+  
